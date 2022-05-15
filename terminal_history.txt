@@ -1,0 +1,7 @@
+  300  git clone https://github.com/Ava-Cazares/financial_modelling_project_one.git
+  301  cd financial_modelling_project_one
+  302  git add .
+  303  git commit -m "commit"
+  304  git push origin main
+  305  history 20 > terminal_history.txt
+  306  history 7 > terminal_history.txt
