@@ -75,8 +75,8 @@ pip install python-dotenv
 ```
 ---
 ## Project Documents
-[Project Charter](https://docs.google.com/document/d/1PwWpAx9TNOI1_Te6dbrxN5pMoMWYN-R-o6w_eiTE7Fg/edit?usp=sharing) supplies classes for manipulating dates and times.
-[Project Presentation](https://docs.google.com/presentation/d/142zyyKktEoblm1tSIeBZa16DZEpnM30K_iBPf_0D8tw/edit?usp=sharing) supplies classes for manipulating dates and times.
+[Project Charter](https://docs.google.com/document/d/1PwWpAx9TNOI1_Te6dbrxN5pMoMWYN-R-o6w_eiTE7Fg/edit?usp=sharing) is a link to a Google document.
+[Project Presentation](https://docs.google.com/presentation/d/142zyyKktEoblm1tSIeBZa16DZEpnM30K_iBPf_0D8tw/edit?usp=sharing) is a link to a Google presentation. 
 
 ---
 ## Usage Examples
@@ -85,7 +85,6 @@ pip install python-dotenv
 ![Historical Data One](images/historical_data_one.png)
 ![Historical Data Two](images/historical_data_two.png)
 ![Sharp Ratio](images/sharp_ratio.png)
-![Cummulative Returns](images/cummulative_returns.png)
 
 ### Part 2: Analyze Data
 ![Cummulative Returns](images/cummulative_returns.png)
